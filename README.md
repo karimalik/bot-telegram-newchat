@@ -18,10 +18,6 @@ run the server:
 ```bash
 npm start
 ```
-## Credits
-
-- [Karim Kompissi](https://karimdev.network/)
-
 ## Licence
 
 The MIT **licence (MIT)**
